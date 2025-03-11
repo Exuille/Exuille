@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi, I'm Alex
-Aspiring software engineer with hands-on experience in backend development and database management.
-I am interested and currently learning AI and LLM engineering 
+Hi, I'm Alex <br>Aspiring software engineer with hands-on experience in full stack development and database management.<br>I am interested and currently learning AI and LLM engineering
 
 
 ## 🌐 Socials:
