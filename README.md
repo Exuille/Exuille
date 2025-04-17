@@ -13,5 +13,5 @@ Hi, I'm Alex <br>Aspiring software engineer with hands-on experience in full sta
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Exuille&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Exuille&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Exuille&repo=Exuille&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
